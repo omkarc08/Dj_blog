@@ -26,7 +26,7 @@ SECRET_KEY = 'x_yjgf#$&2u!vv7)av%ylz+o5dagtqrk+(o40+)wos13$_o%z!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [omdjblog.herokuapp.com]
+ALLOWED_HOSTS = ['omdjblog.herokuapp.com']
 
 
 # Application definition
